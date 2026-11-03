@@ -254,7 +254,12 @@ h1, h2, h3 {
 .project img {
   width: 100%;
   aspect-ratio: 16 / 10;
-  object-fit: cover;
+  .project img {
+  width: 100%;
+  height: auto;
+  aspect-ratio: auto;
+  object-fit: contain;
+  display: block;
   border-bottom: 1px solid var(--line);
 }
 
