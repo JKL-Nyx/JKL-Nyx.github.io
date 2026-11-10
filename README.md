@@ -3,7 +3,7 @@ My games development portfolio
 # John Lavery
 
 Level 3 Games Development student at Belfast Metropolitan College.
-Unreal Engine, C++, game audio.
+Unreal Engine, game audio.
 
 **Portfolio:** https://JKL-Nyx.github.io/
 
